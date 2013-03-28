@@ -24,5 +24,6 @@ from locally running web-server to some LAN or cloud server.
 
 ## Questions
 
-How to create light Eclipse RCP container for JavaScript, and HTML5+JavaScript?
+[How to create light Eclipse RCP container for JavaScript, and HTML5+JavaScript?](http://stackoverflow.com/questions/15687626/how-to-create-light-eclipse-rcp-container-for-javascript-and-html5javascript)  
  Are there ready-to-use libraries and frameworks?
+[Are there ready-to-use libraries and frameworks to include JavaScript into Java widgets?](http://stackoverflow.com/questions/15687749/are-there-ready-to-use-libraries-and-frameworks-to-include-javascript-into-java)
