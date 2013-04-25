@@ -75,3 +75,7 @@ XULRunner 10 	The SWT browser now supports embedding XULRunner 10.0.x
 	
 http://blog.sdruskat.net/getting-started-with-the-eclipse-rcp/	
 
+## ScriptEclipse
+
+This is gem in rough by Michael Bartl [marketplace](http://marketplace.eclipse.org/content/scripteclipse), see ScriptEclipse_Demo.swf
+
