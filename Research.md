@@ -78,4 +78,5 @@ http://blog.sdruskat.net/getting-started-with-the-eclipse-rcp/
 ## ScriptEclipse
 
 This is gem in rough by Michael Bartl [marketplace](http://marketplace.eclipse.org/content/scripteclipse), see ScriptEclipse_Demo.swf
+However it is commercially licensed, so we can't use it.
 
