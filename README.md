@@ -29,3 +29,8 @@ from locally running web-server to some LAN or cloud server.
 [Are there ready-to-use libraries and frameworks to include JavaScript into Java widgets?](http://stackoverflow.com/questions/15687749/are-there-ready-to-use-libraries-and-frameworks-to-include-javascript-into-java)
 
 [How to develop Eclipse RCP, Eclipse plugins with JavaScript?](http://stackoverflow.com/questions/15700539/how-to-develop-eclipse-rcp-eclipse-plugins-with-javascript)
+
+## Examples of tools we could use
+
+In-browser Markdown Editor
+http://benweet.github.io/stackedit/
